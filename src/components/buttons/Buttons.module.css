@@ -1,0 +1,24 @@
+.buttons {
+    width: 80%;
+    height: 30%;
+    border: 3px solid #466b9f;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button {
+    border: none;
+    font: inherit;
+    color: #bdbdbd;
+    background-color: #466b9f;
+    cursor: pointer;
+    padding: 5px 15px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.mute {
+    opacity: 0.4;
+}
